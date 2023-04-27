@@ -1,0 +1,30 @@
+#canvas {
+    background-color: rgb(140, 90, 140);
+    height: 500px;
+    width: 500px; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+}
+
+#score {
+    color: rgb(175, 138, 210);
+    font-size: 48px;
+
+}
+
+#button {
+    background-color: rgb(191, 126, 139);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    font-size: 32px; 
+    color: aliceblue; 
+    margin-top: 100px;
+
+} 
+
